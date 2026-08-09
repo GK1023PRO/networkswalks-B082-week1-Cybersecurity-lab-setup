@@ -33,7 +33,10 @@ The following connectivity tests were successful:
 ### Snapshot
 
 A VirtualBox snapshot was created after completing Phase 1:
-<img width="1365" height="718" alt="WhatsApp Image 2026-08-09 at 11 24 12 AM" src="https://github.com/user-attachments/assets/b3a6f741-2162-48b0-8283-0b39c466af08" />
+<img width="955" height="530" alt="Screenshot 2026-08-09 124508" src="https://github.com/user-attachments/assets/2d23f437-e3ef-49d6-bb83-5f339ae2ad92" />
+<img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/734679d2-9ecb-452c-b1c2-a28a81bea9c4" />
+
+
 
 `Phase-1-Kali-Base`
 
