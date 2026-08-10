@@ -228,9 +228,9 @@ Next Steps: Proceed to Phase 2 - Install Windows 10/11 and test connectivity bet
 📝 Notes
 Kali Version: 2026.2
 
-VirtualBox Version: [Add Version]
+VirtualBox Version: 7.2.14
 
-Host OS: [Add Your OS]
+Host OS: SERVER2022
 
 Network: NAT Network (10.0.0.0/24)
 
