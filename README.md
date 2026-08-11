@@ -26,7 +26,7 @@ This document outlines the complete setup process for Kali Linux on VirtualBox a
 Step	Task	Status
 1	Download & install 7-zip	✅
 2	Download & install VirtualBox	✅
-3	Configure NATNetwork (10.0.0.0/24)	✅
+3	Configure NATNetwork (10.0.2.0/24)	✅
 4	Download & import Kali Linux VM	✅
 5	Setup IP configuration	✅
 6	Take snapshot of the VM	✅
@@ -72,7 +72,7 @@ Configuration:
 
 text
 Network Name: NatNetwork
-Network CIDR: 10.0.0.0/24
+Network CIDR: 10.0.2.0/24
 Enable DHCP: ✅ Checked
 Click OK to save
 
@@ -232,7 +232,7 @@ VirtualBox Version: 7.2.14
 
 Host OS: SERVER2022
 
-Network: NAT Network (10.0.0.0/24)
+Network: NAT Network (10.0.2.0/24)
 
 "Success is the sum of small efforts repeated day in and day out." - Robert Collier
 
